@@ -41,12 +41,12 @@ $ pip install django==1.11
 ## Software Adicional para el desarrollo
 
 Para el control de versiones:
+<a href="https://git-scm.com/"> Git</a> ó
 <a href="https://desktop.github.com/"> GitHub Desktop</a>
 
 Para el desarrollo del software:<br>
-<a href="https://desktop.github.com/">Sublime Text</a><br> o 
-<a href="https://notepad-plus-plus.org/download/">Notepad++</a><br>
-o un IDE robusto<a href="https://www.jetbrains.com/pycharm/">PyCharm</a>
+<a href="https://desktop.github.com/">Sublime Text</a><br>,<a href="https://notepad-plus-plus.org/download/">Notepad++ </a>
+ o un IDE robusto como<a href="https://www.jetbrains.com/pycharm/"> PyCharm</a>
 
 Para un entorno completo de pruebas adicionales con Php+mySql se recomienda
 <a href="https://www.apachefriends.org/es/index.html">XAMP</a><br>
