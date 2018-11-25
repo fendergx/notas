@@ -4,6 +4,6 @@ Este es un sistema basado en la tesis de Diseño de una planta productora de art
 una tesis de la carrera de ingenería industrial.
 
 ## Requisitos
-Para que funcione correctamente se usa
+Para que funcione correctamente se usa como requerimiento mínimo
 
-![PyPI - Django Version](https://img.shields.io/pypi/djversions/djangorestframework.svg)
+![PyPI - Django Version](https://img.shields.io/badge/Django-1.11-brightgreen.svg)
