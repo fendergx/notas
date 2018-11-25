@@ -45,7 +45,7 @@ Para el control de versiones:
 <a href="https://desktop.github.com/"> GitHub Desktop</a>
 
 Para el desarrollo del software:<br>
-<a href="https://desktop.github.com/">Sublime Text</a><br>,<a href="https://notepad-plus-plus.org/download/">Notepad++ </a>
+<a href="https://desktop.github.com/">Sublime Text</a>, <a href="https://notepad-plus-plus.org/download/">Notepad++ </a>
  o un IDE robusto como<a href="https://www.jetbrains.com/pycharm/"> PyCharm</a>
 
 Para un entorno completo de pruebas adicionales con Php+mySql se recomienda
