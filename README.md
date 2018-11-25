@@ -2,6 +2,7 @@
 
 Este es un sistema basado en la tesis de Diseño de una planta productora de articulos a partir de plástico reciclado, basado en la estrategia de la cadena de suministro,
 una tesis de la carrera de ingenería industrial.
+Puede consultarla en este enlace: <br> <a href="http://ri.ues.edu.sv/7370/"> http://ri.ues.edu.sv/7370</a>
 
 ## Requisitos
 Para que funcione correctamente se usa como requerimiento mínimo
