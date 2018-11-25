@@ -6,6 +6,6 @@ una tesis de la carrera de ingenería industrial.
 ## Requisitos
 Para que funcione correctamente se usa como requerimiento mínimo
 
-![PyPI - Python Version](https://img.shields.io/badge/Python-v2.7-blue.svg)
+![PyPI - Python Version](https://img.shields.io/badge/Python-v2.7-blue.svg)](https://packagist.org/packages/phpunit/phpunit)
 ![PyPI - Django Version](https://img.shields.io/badge/Django-%3D%3E1.11-brightgreen.svg)
 
