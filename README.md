@@ -11,7 +11,7 @@ Para que funcione correctamente se usa como requerimiento mínimo
 [![PyPI - Django Version](https://img.shields.io/badge/Django-%3D%3E1.11-brightgreen.svg)](https://www.djangoproject.com/download/)
 [![PyPI - SQLite Version](https://img.shields.io/badge/SQLite-v3-yellowgreen.svg)](https://www.djangoproject.com/download/)
 
-<br>Ya trae una BD de prueba, pero puede configurarse para cualquier otra en Sic/settins.py en el apartado DATABASES
+<br>Ya trae una BD de prueba, pero puede configurarse para cualquier otra en Sic/settings.py en el apartado DATABASES
 
 ## Instalación de Python y Django en Linux (varia)
 
